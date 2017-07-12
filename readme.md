@@ -1,3 +1,3 @@
 # Wicked Plots
 
-Using the matplotlib library for python.
+Using the matplotlib and pygal libraries for python.
